@@ -20,4 +20,4 @@ Prueba de List
 ![List](https://github.com/DannyVinueza/trabajoClase/blob/master/List.png)
 
 
-Video Tiktock [Tiktok](https://duckduckgo.com "The best search engine for privacy").
+Video Tiktock [Tiktok](https://vm.tiktok.com/ZMYR49tuG/).
